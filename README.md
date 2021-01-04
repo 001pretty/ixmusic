@@ -1,4 +1,3 @@
-Backend needs 2 env vars:
+Backend needs this env var:
 
 - MONGODB_URI
-- JWT_SECRET
