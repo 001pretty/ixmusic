@@ -1,10 +1,10 @@
 # IX music
 
 [Demo](https://ixmusic.herokuapp.com/) /
-[Repository](https://github.com/777pretty/ixmusic)
+[Repository](https://github.com/777pretty/ixmusic)<br/>
 ![React Version](https://img.shields.io/badge/react-v17.0.1-blue.svg)<br/>
 
-![preview](https://thezajac.com/static/media/os-ix3.046fa071.mp4)
+![preview](https://github.com/001pretty/ixmusic/blob/main/ixmusic-preview.png)
 
 #### Description
 
