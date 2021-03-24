@@ -1,5 +1,6 @@
 # IX music
 
+![React Version](https://img.shields.io/badge/react-v17.0.1-blue.svg) &nbsp;
 ![React Version](https://img.shields.io/badge/react-v17.0.1-blue.svg)<br/>
 
 [Demo](https://ixmusic.herokuapp.com/) &nbsp; &nbsp; &nbsp; [Repository](https://github.com/777pretty/ixmusic)<br/>
@@ -27,6 +28,9 @@ Information about every song such as Name, Artist and Year are located in MongoD
 - [License](#license)
 - [Contact](#contact)
 
+<br/>
+<br/>
+
 ## Features
 
 - Play songs
@@ -38,10 +42,12 @@ Information about every song such as Name, Artist and Year are located in MongoD
 - Jump through a song by clicking the progress bar
 - Responsive/mobile-friendly
 
+<br/>
 ## Motivation
 
 I wanted to create music application to practice and listen to some of my favorite music through an application I've built. I hope you enjoyed the songs.
 
+<br/>
 ## Getting Started
 
 ### Installation
@@ -104,6 +110,8 @@ react-dom
 axios
 sass
 
+<br/>
+
 ## Ideas for future releases
 
 - Ability for users to add songs directly through the website
@@ -113,9 +121,13 @@ sass
 - Additional data about the song
 - Artist profile
 
+<br/>
+
 ## License
 
 This project is licensed under the [MIT License](https://github.com/this/project/blob/master/LICENSE)
+
+<br/>
 
 ## Contact
 
