@@ -61,7 +61,7 @@ To run application on your local machine follow these steps:
 
 4. Add this environmental variable to the .env file you've just created with the value of your MongoDB URI:
    ```javascript
-   MONGODB_URI = "your-mongodb-uri";
+   MONGODB_URI="your-mongodb-uri";
    ```
 5. Start development mode with command:
 
