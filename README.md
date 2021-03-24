@@ -1,7 +1,7 @@
 # IX music
 
-![Live Demo](https://ixmusic.herokuapp.com/)
-![Link to Repository](https://github.com/777pretty/ixmusic)
+[Live Demo](https://ixmusic.herokuapp.com/)
+[Link to Repository](https://github.com/777pretty/ixmusic)
 ![React Version](https://img.shields.io/badge/react-v17.0.1-blue.svg)
 
 ![preview](https://thezajac.com/static/media/os-ix3.046fa071.mp4)
@@ -117,3 +117,9 @@ This project is licensed under the [MIT License](https://github.com/this/project
 
 - You can contact me via email: oliverzaj@gmail.com
 - Or fill the contact form at my [personal website](https://thezajac.com)
+
+https://user-images.githubusercontent.com/76065380/112373734-94fbeb00-8ce1-11eb-935e-92400f902609.mp4
+
+
+https://user-images.githubusercontent.com/76065380/112373750-99280880-8ce1-11eb-8598-812e482ad4b0.mp4
+
