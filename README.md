@@ -10,10 +10,10 @@
 **Description**<br />
 🎼 Music player application with server served playlist.
 
-Application utilizes the MERN stack.
-Frontend is built with React.
-Backend is powered by Node and Express.
-Information about every song such as Name, Artist and Year are located in MongoDB (NoSQL) database.
+Application utilizes the MERN stack.<br />
+Frontend is built with React.<br />
+Backend is powered by Node and Express.<br />
+Information about every song such as Name, Artist and Year are located in MongoDB (NoSQL) database.<br />
 <br/>
 
 ## Table of content
@@ -25,7 +25,6 @@ Information about every song such as Name, Artist and Year are located in MongoD
 - [Ideas for future releases](#ideas-for-future-releases)
 - [Contact](#contact)
 
-<br/>
 <br/>
 
 ## Features
@@ -43,7 +42,7 @@ Information about every song such as Name, Artist and Year are located in MongoD
 
 ## Motivation
 
-I wanted to create music application to practice and listen to some of my favorite music through an application I've built. I hope you enjoyed the songs.
+I wanted to build music application to practice and listen to some of my favorite music through an application. Setting up the player component and adding the playlist was lot of fun. Anyway, I also hope you enjoyed the songs.
 
 <br/>
 
@@ -121,6 +120,8 @@ Bootstrapped with create-react-app
 <br/>
 
 ## Contact
+
+With any ideas or questions...
 
 - You can contact me via email: oliverzaj@gmail.com
 - Or fill the contact form at my [personal website](https://thezajac.com)
