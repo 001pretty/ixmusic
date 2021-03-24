@@ -1,7 +1,7 @@
 # IX music
 
-![React Version](https://img.shields.io/badge/react-v17.0.1-blue.svg) &nbsp;
-![React Version](https://img.shields.io/badge/react-v17.0.1-blue.svg)<br/>
+![React Version](https://img.shields.io/badge/node-v12.16.2-green.svg) &nbsp;
+![React Version](https://img.shields.io/badge/react-v17.0.1-green.svg)<br/>
 
 [Demo](https://ixmusic.herokuapp.com/) &nbsp; &nbsp; &nbsp; [Repository](https://github.com/777pretty/ixmusic)<br/>
 
