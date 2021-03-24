@@ -5,7 +5,7 @@
 
 [Demo](https://ixmusic.herokuapp.com/) &nbsp; &nbsp; &nbsp; [Repository](https://github.com/777pretty/ixmusic)<br/>
 
-![preview](https://github.com/001pretty/ixmusic/blob/main/ixmusic-preview.png)
+![preview](https://github.com/this/project/blob/main/ixmusic-preview.png)
 
 **Description**<br />
 🎼 Music player application with server served playlist.
@@ -88,7 +88,7 @@ To run application on your local machine follow these steps:
 
 ## Built With
 
-Bootstrapped with create-react-app
+Frontend bootstrapped with create-react-app
 
 **Backend dependencies**
 
@@ -116,6 +116,12 @@ Bootstrapped with create-react-app
 - Favorite songs/Custom playlist
 - Additional data about the song
 - Artist profile
+
+<br/>
+
+## License
+
+This project is licensed under the [MIT License](https://github.com/this/project/blob/master/LICENSE)
 
 <br/>
 
