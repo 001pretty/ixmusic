@@ -5,7 +5,7 @@
 
 [Demo](https://ixmusic.herokuapp.com/) &nbsp; &nbsp; &nbsp; [Repository](https://github.com/777pretty/ixmusic)<br/>
 
-![preview](https://github.com/001pretty/ixmusic/blob/main/ixmusic-preview.png)
+![preview](https://github.com/001pretty/ixmusic/blob/main/ixmusic-preview2.png)
 
 **Description**<br />
 🎼 Music player application with server served playlist.
