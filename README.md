@@ -7,7 +7,7 @@
 
 ![preview](https://github.com/001pretty/ixmusic/blob/main/ixmusic-preview.png)
 
-**Description**
+**Description**<br />
 🎼 Music player application with server served playlist.
 
 Application utilizes the MERN stack.
@@ -23,7 +23,6 @@ Information about every song such as Name, Artist and Year are located in MongoD
 - [**Installation**](#installation)
 - [Built With](#built-with)
 - [Ideas for future releases](#ideas-for-future-releases)
-- [License](#license)
 - [Contact](#contact)
 
 <br/>
@@ -118,12 +117,6 @@ Bootstrapped with create-react-app
 - Favorite songs/Custom playlist
 - Additional data about the song
 - Artist profile
-
-<br/>
-
-## License
-
-This project is licensed under the [MIT License](https://github.com/this/project/blob/master/LICENSE)
 
 <br/>
 
