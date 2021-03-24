@@ -4,7 +4,7 @@
 ![Link to Repository](https://github.com/777pretty/ixmusic)
 ![React Version](https://img.shields.io/badge/react-v17.0.1-blue.svg)
 
-![preview](https://www.thezajac.com/static/media/os-ix3.046fa071.mp4)
+![preview](https://thezajac.com/static/media/os-ix3.046fa071.mp4)
 
 #### Description
 
@@ -61,7 +61,7 @@ To run application on your local machine follow these steps:
 
 4. Add this environmental variable to the .env file you've just created with the value of your MongoDB URI:
    ```javascript
-   MONGODB_URI="your-mongodb-uri";
+   MONGODB_URI = "your-mongodb-uri";
    ```
 5. Start development mode with command:
 
