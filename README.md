@@ -29,14 +29,14 @@ Information about every song such as Name, Artist and Year are located in MongoD
 
 ## Features
 
-Play songs
-Pause songs
-Change songs
-Song logo
-Year of release
-Playlist
-Jump through a song by clicking the progress bar
-Responsive/mobile-friendly
+- Play songs
+- Pause songs
+- Change songs
+- Song logo
+- Basic song information
+- Playlist
+- Jump through a song by clicking the progress bar
+- Responsive/mobile-friendly
 
 ## Motivation
 
@@ -106,12 +106,12 @@ sass
 
 ## Ideas for future releases
 
-Ability for users to add songs directly through the website
-User authentication
-Rating
-Favorite songs/Custom playlist
-Additional data about the song
-Artist profile
+- Ability for users to add songs directly through the website
+- User authentication
+- Rating
+- Favorite songs/Custom playlist
+- Additional data about the song
+- Artist profile
 
 ## License
 
