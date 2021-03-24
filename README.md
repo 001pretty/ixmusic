@@ -3,12 +3,12 @@
 ![React Version](https://img.shields.io/badge/node-v12.16.2-green.svg) &nbsp;
 ![React Version](https://img.shields.io/badge/react-v17.0.1-blue.svg)<br/>
 
-[Demo](https://ixmusic.herokuapp.com/) &nbsp; &nbsp; &nbsp; [Repository](https://github.com/777pretty/ixmusic)<br/>
 
 ![preview](https://github.com/001pretty/ixmusic/blob/main/ixmusic-preview.png)
 
-**Description**
+[Demo](https://ixmusic.herokuapp.com/) &nbsp; &nbsp; &nbsp; [Repository](https://github.com/777pretty/ixmusic)<br/>
 
+**Description**
 🎼 Music player application with server served playlist.
 
 Application utilizes the MERN stack.
@@ -43,11 +43,13 @@ Information about every song such as Name, Artist and Year are located in MongoD
 - Responsive/mobile-friendly
 
 <br/>
+
 ## Motivation
 
 I wanted to create music application to practice and listen to some of my favorite music through an application I've built. I hope you enjoyed the songs.
 
 <br/>
+
 ## Getting Started
 
 ### Installation
