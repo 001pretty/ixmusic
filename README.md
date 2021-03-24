@@ -5,7 +5,7 @@
 
 [Demo](https://ixmusic.herokuapp.com/) &nbsp; &nbsp; &nbsp; [Repository](https://github.com/777pretty/ixmusic)<br/>
 
-![preview](https://github.com/this/project/blob/main/ixmusic-preview.png)
+![preview](https://github.com/001pretty/ixmusic/blob/main/ixmusic-preview.png)
 
 **Description**<br />
 🎼 Music player application with server served playlist.
@@ -23,6 +23,7 @@ Information about every song such as Name, Artist and Year are located in MongoD
 - [**Installation**](#installation)
 - [Built With](#built-with)
 - [Ideas for future releases](#ideas-for-future-releases)
+- [License](#license)
 - [Contact](#contact)
 
 <br/>
@@ -121,7 +122,7 @@ Frontend bootstrapped with create-react-app
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/this/project/blob/master/LICENSE)
+This project is licensed under the [MIT License](https://github.com/001pretty/ixmusic/blob/main/LICENSE)
 
 <br/>
 
