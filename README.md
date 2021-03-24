@@ -3,10 +3,9 @@
 ![React Version](https://img.shields.io/badge/node-v12.16.2-green.svg) &nbsp;
 ![React Version](https://img.shields.io/badge/react-v17.0.1-blue.svg)<br/>
 
+[Demo](https://ixmusic.herokuapp.com/) &nbsp; &nbsp; &nbsp; [Repository](https://github.com/777pretty/ixmusic)<br/>
 
 ![preview](https://github.com/001pretty/ixmusic/blob/main/ixmusic-preview.png)
-
-[Demo](https://ixmusic.herokuapp.com/) &nbsp; &nbsp; &nbsp; [Repository](https://github.com/777pretty/ixmusic)<br/>
 
 **Description**
 🎼 Music player application with server served playlist.
@@ -22,7 +21,6 @@ Information about every song such as Name, Artist and Year are located in MongoD
 - [Features](#features)
 - [Motivation](#motivation)
 - [**Installation**](#installation)
-- [Usage](#usage)
 - [Built With](#built-with)
 - [Ideas for future releases](#ideas-for-future-releases)
 - [License](#license)
@@ -88,10 +86,6 @@ To run application on your local machine follow these steps:
    localhost:3000
    ```
 
-### Usage
-
-To use the application press play button. Press arrow symbols to change song or click on a song in the playlist. The playlist can be opened with the drawer button in the top right corner.
-
 <br />
 
 ## Built With
@@ -99,18 +93,20 @@ To use the application press play button. Press arrow symbols to change song or 
 Bootstrapped with create-react-app
 
 **Backend dependencies**
-node
-express
-mongoose
-dotenv
-body-parser
-compression
+
+- node
+- express
+- mongoose
+- dotenv
+- body-parser
+- compression
 
 **Frontend dependenceis**
-react
-react-dom
-axios
-sass
+
+- react
+- react-dom
+- axios
+- sass
 
 <br/>
 
